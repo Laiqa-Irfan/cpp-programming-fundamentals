@@ -10,7 +10,7 @@ int main()
     cout <<"enter the value of b=" << endl;
     cin>>b;
     
-    sum=a-b;
-    cout <<"result=" << sum << endl;
+    subtraction=a-b;
+    cout <<"result=" << subtraction << endl;
     return 0;
 }
