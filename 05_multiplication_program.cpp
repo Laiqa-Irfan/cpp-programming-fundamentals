@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
 	int a,b,multiplication;
-	cout <<"enter the value of a=" <<endl;
+	cout <<"enter the value of a=";
 	cin>>a;
-	cout <<"enter the value of b=" <<endl;
+	cout <<"enter the value of b=";
 	cin>>b;
 	multiplication=a*b;
 	cout <<"result=" << multiplication <<endl;
